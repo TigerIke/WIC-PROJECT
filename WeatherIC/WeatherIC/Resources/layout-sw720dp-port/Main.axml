@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:weightSum="30"
+    android:background="@android:color/background_light">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="18"
+        android:id="@+id/LL1"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:weightSum="8">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLDateTime"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="2"
+            android:gravity="center_vertical">
+            <TextView
+                android:text="720 PORTRAIT"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvDate"
+                android:gravity="left"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+            <TextClock
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtClock"
+                android:gravity="right"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+        </LinearLayout>
+        <TextView
+            android:text="LOCALITY72"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/tvLocality"
+            android:gravity="center"
+            android:textSize="23sp"
+            android:layout_weight="1"
+            android:textColor="@android:color/tertiary_text_dark" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLCurrentCloud"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="10"
+            android:gravity="center_vertical">
+            <TextView
+                android:text="MIN:"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtTempMin"
+                android:gravity="left"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="12sp" />
+            <TextView
+                android:text="C"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTempMin"
+                android:gravity="center"
+                android:layout_weight="2"
+                android:textColor="@android:color/holo_blue_dark" />
+            <ImageView
+                android:src="@android:drawable/ic_menu_gallery"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ivCloudIcon"
+                android:layout_weight="4" />
+            <TextView
+                android:text="RISE:"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtSunRise"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_red_dark"
+                android:textSize="12sp" />
+            <TextView
+                android:text="TIME"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvSunRise"
+                android:gravity="right"
+                android:layout_weight="2"
+                android:textColor="@android:color/holo_red_dark" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLTemperature"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="10"
+            android:gravity="center_vertical">
+            <TextView
+                android:text="MAX:"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtTempMax"
+                android:gravity="left"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_red_dark"
+                android:textSize="12sp" />
+            <TextView
+                android:text="C"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTempMax"
+                android:gravity="center"
+                android:layout_weight="2"
+                android:textColor="@android:color/holo_red_dark" />
+            <TextView
+                android:text="Temp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvTemperature"
+                android:gravity="center"
+                android:textSize="33sp"
+                android:layout_weight="4"
+                android:textColor="@android:color/tertiary_text_dark" />
+            <TextView
+                android:text="SET:"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtSunSet"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="12sp" />
+            <TextView
+                android:text="TIME"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvSunSet"
+                android:gravity="right"
+                android:layout_weight="2"
+                android:textColor="@android:color/holo_blue_dark" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLHumidity"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="6"
+            android:gravity="center_vertical">
+            <TextView
+                android:text="HUMIDITY:"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtHumidity"
+                android:gravity="right"
+                android:textSize="10sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvHumidity"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+            <TextView
+                android:text="PRESSURE:"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtPressure"
+                android:gravity="right"
+                android:textSize="10sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvPressure"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+            <TextView
+                android:text="WIND:"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtWindDirection"
+                android:gravity="right"
+                android:textSize="10sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvWindDirection"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLFCDays"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="5"
+            android:gravity="center_vertical">
+            <TextView
+                android:text="DAY1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay1"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="10sp" />
+            <TextView
+                android:text="DAY2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay2"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="10sp" />
+            <TextView
+                android:text="DAY3"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay3"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="10sp" />
+            <TextView
+                android:text="DAY4"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay4"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="10sp" />
+            <TextView
+                android:text="DAY5"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay5"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="10sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLFCClouds"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="5"
+            android:gravity="center_vertical">
+            <ImageView
+                android:src="@android:drawable/ic_menu_gallery"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/ivDay1Cloud"
+                android:layout_weight="1" />
+            <ImageView
+                android:src="@android:drawable/ic_menu_gallery"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/ivDay2Cloud"
+                android:layout_weight="1" />
+            <ImageView
+                android:src="@android:drawable/ic_menu_gallery"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/ivDay3Cloud"
+                android:layout_weight="1" />
+            <ImageView
+                android:src="@android:drawable/ic_menu_gallery"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/ivDay4Cloud"
+                android:layout_weight="1" />
+            <ImageView
+                android:src="@android:drawable/ic_menu_gallery"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/ivDay5Cloud"
+                android:layout_weight="1" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLFCTemp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="5"
+            android:gravity="center_vertical">
+            <TextView
+                android:text="DAY1 T"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay1Temperature"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="12sp" />
+            <TextView
+                android:text="DAY2 T"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay2Temperature"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="12sp" />
+            <TextView
+                android:text="DAY3 T"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay3Temperature"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="12sp" />
+            <TextView
+                android:text="DAY4 T"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay4Temperature"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="12sp" />
+            <TextView
+                android:text="DAY5 T"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvDay5Temperature"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="5"
+        android:id="@+id/LL2"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLAddress"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:weightSum="2">
+            <TextView
+                android:inputType="textMultiLine"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/tvAddress"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+            <LinearLayout
+                android:orientation="vertical"
+                android:id="@+id/LLCoordinates"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:weightSum="4"
+                android:layout_weight="1"
+                android:gravity="center">
+                <TextView
+                    android:text="LATITUDE :"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:id="@+id/txtLat"
+                    android:gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:textColor="@android:color/tertiary_text_dark" />
+                <TextView
+                    android:text="LATITUDE RESULT"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:id="@+id/tvLat"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="@android:color/tertiary_text_dark" />
+                <TextView
+                    android:text="LONGITUDE :"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:id="@+id/txtLongitude"
+                    android:gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:textColor="@android:color/tertiary_text_dark" />
+                <TextView
+                    android:text="LONGITUDE RESULT"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:id="@+id/tvLong"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="@android:color/tertiary_text_dark" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_weight="2"
+        android:id="@+id/LL3"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:weightSum="2">
+        <TextView
+            android:text="SELECT LOCALITY :"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtSelectLocality"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            android:textColor="@android:color/holo_blue_dark" />
+        <AutoCompleteTextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/acLocality"
+            android:layout_weight="1"
+            android:textSize="15sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="5"
+        android:id="@+id/LL4"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:weightSum="5">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLTextIcons"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:weightSum="4">
+            <TextView
+                android:text="GPS"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/txtCurrentLocation"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="15sp" />
+            <TextView
+                android:text="ADDRESS"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/txtAddress"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="15sp" />
+            <TextView
+                android:text="MAP"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/txtGoogleMap"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="15sp" />
+            <TextView
+                android:text="WEATHER"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/txtForecast"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="15sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LLIcons"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:weightSum="4">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/ivLocation"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/latlongicon" />
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/ivAddress"
+                android:scaleType="fitCenter"
+                android:layout_weight="1"
+                android:src="@drawable/addressicon" />
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/ivMap"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/gmapicon" />
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/ivWeather"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/fcicon" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

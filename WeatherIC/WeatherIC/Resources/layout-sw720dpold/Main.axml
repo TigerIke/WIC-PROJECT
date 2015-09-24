@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="@android:color/background_light"
+    android:weightSum="10" >
+  <LinearLayout
+      android:orientation="horizontal"
+      android:id="@+id/LL1"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_weight="10"
+      android:weightSum="2"
+      android:gravity="center_vertical">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/LL11"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:weightSum="4">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/LL10"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:weightSum="2"
+            android:gravity="center_vertical">
+            <TextView
+                android:text="DATE AND TIME"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvDate"
+                android:gravity="left"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+            <TextClock
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtClock"
+                android:gravity="right"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:textColor="@android:color/tertiary_text_dark" />
+        </LinearLayout>
+        <TextView
+            android:text="LOCALITY"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/tvLocality"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:textColor="@android:color/tertiary_text_dark" />
+        <ImageView
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/ivCloudIcon"
+            android:layout_weight="1" />
+        <TextView
+            android:text="Temperature"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/tvTemperature"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:layout_weight="1"
+            android:textColor="@android:color/tertiary_text_dark" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/LL12"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:weightSum="2">
+      <TextView
+                  android:inputType="textMultiLine"
+                  android:layout_width="0dp"
+                  android:layout_height="match_parent"
+                  android:id="@+id/tvAddress"
+                  android:gravity="center"
+                  android:layout_weight="1"
+                  android:textColor="@android:color/tertiary_text_dark" />
+      <LinearLayout
+          android:orientation="vertical"
+          android:id="@+id/LL22"
+          android:layout_width="0dp"
+          android:layout_height="match_parent"
+          android:weightSum="4"
+          android:layout_weight="1"
+          android:gravity="center">
+        <TextView
+            android:text="LATITUDE :"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/txtLat"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            android:textColor="@android:color/tertiary_text_dark" />
+        <TextView
+            android:text="LATITUDE RESULT"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/tvLat"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textColor="@android:color/tertiary_text_dark" />
+        <TextView
+            android:text="LONGITUDE :"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/txtLongitude"
+            android:gravity="center_vertical"
+            android:layout_weight="1"
+            android:textColor="@android:color/tertiary_text_dark" />
+        <TextView
+            android:text="LONGITUDE RESULT"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/tvLong"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textColor="@android:color/tertiary_text_dark" />
+      </LinearLayout>
+  </LinearLayout>
+</LinearLayout>

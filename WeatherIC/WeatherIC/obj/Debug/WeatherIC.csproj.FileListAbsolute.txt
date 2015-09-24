@@ -1,0 +1,168 @@
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.dll
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.pdb
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.WeatherIC.apk
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.WeatherIC-Signed.apk
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\RestSharp.dll
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\RestSharp.xml
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\WeatherIC.dll
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\WeatherIC.pdb
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\android\bin\WeatherIC.WeatherIC.apk
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\layout\main.xml
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\values\strings.xml
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\icon.png
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\R.cs.flag
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\uploadflags.txt
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\GooglePlayServicesLib.dll
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\XApps\ASSESSMENT #5\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.dll
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.pdb
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.WeatherIC.apk
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.WeatherIC-Signed.apk
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\GooglePlayServicesLib.dll
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\RestSharp.dll
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\bin\Debug\RestSharp.xml
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\WeatherIC.dll
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\WeatherIC.pdb
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\android\bin\WeatherIC.WeatherIC.apk
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\layout\main.xml
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\values\strings.xml
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\icon.png
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\appicon.jpe
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\latlongicon.jpeg
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\addressicon.jpeg
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\gmapicon.jpeg
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\R.cs.flag
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\uploadflags.txt
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\locinfoicon.jpe
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\weatherbckgrnd1.jpe
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\layout\map.xml
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\forecasticon.jpe
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\res\drawable\fcicon.jpe
+C:\XApps\ASSESSMENT\ASSESSMENT # 6\WeatherIC\WeatherIC\obj\Debug\WeatherIC.csprojResolveAssemblyReference.cache
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\WeatherIC.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\WeatherIC.pdb
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\weatheric.weatheric.apk
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\weatheric.weatheric-Signed.apk
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\GooglePlayServicesLib.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\RestSharp.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\RestSharp.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\WeatherIC.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\WeatherIC.pdb
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\android\bin\weatheric.weatheric.apk
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\values\strings.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable\icon.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable\appicon.jpe
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable\latlongicon.jpeg
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable\addressicon.jpeg
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable\gmapicon.jpeg
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable\fcicon.jpe
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\R.cs.flag
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\uploadflags.txt
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\bin\Debug\UrlImageViewHelper.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-land\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-land\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-sw600dp-port\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-sw600dp-port\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-sw600dp-land\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-sw600dp-land\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-sw720dp-port\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-sw720dp-port\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-sw720dp-land\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\layout-sw720dp-land\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\WeatherIC.csprojResolveAssemblyReference.cache
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-mdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-mdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-mdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-mdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-mdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-hdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-hdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-hdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-hdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-hdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xhdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xhdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xhdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xhdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xhdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxhdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxhdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxhdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxhdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxhdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxxhdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxxhdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxxhdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxxhdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC 1609151119am\WeatherIC\obj\Debug\res\drawable-xxxhdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\WeatherIC.pdb
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\weatheric.weatheric.apk
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\weatheric.weatheric-Signed.apk
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\GooglePlayServicesLib.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\RestSharp.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\UrlImageViewHelper.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\bin\Debug\RestSharp.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\WeatherIC.csprojResolveAssemblyReference.cache
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\WeatherIC.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\WeatherIC.pdb
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\android\bin\weatheric.weatheric.apk
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-land\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-land\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-sw600dp-port\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-sw720dp-port\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-sw600dp-land\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-sw720dp-land\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-sw600dp-land\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-sw600dp-port\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-sw720dp-land\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout-sw720dp-port\map.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\layout\main.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\values\strings.xml
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable\icon.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable\appicon.jpe
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable\latlongicon.jpeg
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable\addressicon.jpeg
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable\gmapicon.jpeg
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable\fcicon.jpe
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-mdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-mdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-mdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-mdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-mdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-hdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-hdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-hdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-hdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-hdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xhdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xhdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xhdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xhdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xhdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxhdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxhdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxhdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxhdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxhdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxxhdpi\addressicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxxhdpi\appicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxxhdpi\fcicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxxhdpi\gmapicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\res\drawable-xxxhdpi\latlongicon.9.png
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\R.cs.flag
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\uploadflags.txt

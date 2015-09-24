@@ -1,0 +1,13 @@
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\WeatherIC.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\GooglePlayServicesLib.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\mscorlib.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\RestSharp.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\System.Core.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\System.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\System.Xml.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\UrlImageViewHelper.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\IanC\Documents\ASSESSMENT #6\WeatherIC\WeatherIC\obj\Debug\assemblies\Xamarin.Android.Support.v7.MediaRouter.dll

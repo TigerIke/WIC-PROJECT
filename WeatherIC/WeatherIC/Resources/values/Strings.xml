@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">WeatherIC</string>
+  <string-array name="locality">
+    <item>Auckland</item>
+    <item>Hamilton</item>
+    <item>Wellington</item>
+    <item>Christchurch</item>
+    <item>Dunedin</item>
+    <item>Queenstown</item>
+  </string-array>
+</resources>
